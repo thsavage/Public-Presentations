@@ -3,4 +3,4 @@ This repository contains some of my public presentations over the years.  It is 
 
 If you have difficulty rendering the Jupyter notebooks, use this [link](https://nbviewer.jupyter.org/).  Copy and paste the notebook URL.
 
-July 2021 Reonomy [panelpanel on the State of CRE](https://www.reonomy.com/webinars/julystateofcre).
+July 2021 Reonomy [panel on the State of CRE](https://www.reonomy.com/webinars/julystateofcre).
