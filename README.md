@@ -5,4 +5,4 @@ If you have difficulty rendering the Jupyter notebooks, use this [link](https://
 
 July 2021 Reonomy [panel on the State of CRE](https://www.reonomy.com/webinars/julystateofcre).
 
-November 2021 Reonomy [panel on the State of CRE](https://nbviewer.org/github/thsavage/Public-Presentations/blob/main/Reonomy%20November%2010.ipynb)
+November 2021 Reonomy [panel on the State of CRE](https://www.reonomy.com/webinars/q4stateofcre21) with [slides](https://nbviewer.org/github/thsavage/Public-Presentations/blob/main/Reonomy%20November%2010.ipynb).
