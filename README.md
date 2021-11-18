@@ -1,7 +1,4 @@
 # Public-Presentations
-This repository contains some of my public presentations over the years.  It is a work in progress.  
-
-If you have difficulty rendering the Jupyter notebooks, use this [link](https://nbviewer.jupyter.org/).  Copy and paste the notebook URL.
 
 April 2021 CREFC Big Ideas [panel on how tech is distrupting hospitality and retail](https://nyu.zoom.us/rec/share/91zkiweuH6lon8KCUmbmD2nSdpr0VMq7oC2HLwPD1ugY13dExOPjBlKMreeBNT8v.gDxPshERxtYLG6By?startTime=1617984088000).
 
