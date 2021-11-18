@@ -6,8 +6,8 @@ April 2021 CREFC Big Ideas [panel on whether Covid has permenantly altered the l
 
 April 2021 CREFC Big Ideas [panel on how tech is disrupting asset management and development](https://nyu.zoom.us/recording/detail?meeting_id=%2Bf1rxO99SSORp8LtrCXi6A%3D%3D).
 
-July 2021 Reonomy [panel on the State of CRE](https://www.reonomy.com/webinars/julystateofcre).
+July 2021 [panel on the State of CRE](https://www.reonomy.com/webinars/julystateofcre).
 
-November 2021 Reonomy [panel on the State of CRE](https://www.reonomy.com/webinars/q4stateofcre21) with [slides](https://nbviewer.org/github/thsavage/Public-Presentations/blob/main/Reonomy%20November%2010.ipynb).
+November 2021 [panel on the State of CRE](https://www.reonomy.com/webinars/q4stateofcre21) with [slides](https://nbviewer.org/github/thsavage/Public-Presentations/blob/main/Reonomy%20November%2010.ipynb).
 
 *December 2021 [Schack Faculty Seminar Series] revise and resubmit ;). 
