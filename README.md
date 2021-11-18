@@ -3,9 +3,11 @@ This repository contains some of my public presentations over the years.  It is 
 
 If you have difficulty rendering the Jupyter notebooks, use this [link](https://nbviewer.jupyter.org/).  Copy and paste the notebook URL.
 
+April 2021 CREFC Big Ideas [panel on how tech is distrupting hospitality and retail](https://nyu.zoom.us/rec/share/91zkiweuH6lon8KCUmbmD2nSdpr0VMq7oC2HLwPD1ugY13dExOPjBlKMreeBNT8v.gDxPshERxtYLG6By?startTime=1617984088000).
+
 April 2021 CREFC Big Ideas [panel on whether Covid has altered the landscape for CRE](https://nyu.zoom.us/rec/share/Yk1SQzylODyZU3cn1mYiwnPh2TdZ-mUE161LROuKkQchYGGAkntJGg0261fqIlpU.XXor4sA9Kb8EaV2x?startTime=1619194002000).
 
-April 2021 CREFC Big Ideas [panel on tech is disrupting asset management and development](https://nyu.zoom.us/recording/detail?meeting_id=%2Bf1rxO99SSORp8LtrCXi6A%3D%3D).
+April 2021 CREFC Big Ideas [panel on how tech is disrupting asset management and development](https://nyu.zoom.us/recording/detail?meeting_id=%2Bf1rxO99SSORp8LtrCXi6A%3D%3D).
 
 July 2021 Reonomy [panel on the State of CRE](https://www.reonomy.com/webinars/julystateofcre).
 
