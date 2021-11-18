@@ -8,3 +8,5 @@ April 2021 CREFC Big Ideas [panel on whether Covid has altered the landscape for
 July 2021 Reonomy [panel on the State of CRE](https://www.reonomy.com/webinars/julystateofcre).
 
 November 2021 Reonomy [panel on the State of CRE](https://www.reonomy.com/webinars/q4stateofcre21) with [slides](https://nbviewer.org/github/thsavage/Public-Presentations/blob/main/Reonomy%20November%2010.ipynb).
+
+December 2021 [Schack Faculty Seminar Series](). 
