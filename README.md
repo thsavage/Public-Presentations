@@ -10,4 +10,4 @@ July 2021 [panel on the State of CRE](https://www.reonomy.com/webinars/julystate
 
 November 2021 [panel on the State of CRE](https://www.reonomy.com/webinars/q4stateofcre21) with [slides](https://nbviewer.org/github/thsavage/Public-Presentations/blob/main/Reonomy%20November%2010.ipynb).
 
-*December 2021 [Schack Faculty Seminar Series] revise and resubmit ;). 
+*December 2021 [Schack Faculty Seminar Series] revise and resubmit ;)*. 
