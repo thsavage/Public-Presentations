@@ -11,3 +11,5 @@ July 2021 [panel on the State of CRE](https://www.reonomy.com/webinars/julystate
 November 2021 [panel on the State of CRE](https://www.reonomy.com/webinars/q4stateofcre21) with [slides](https://nbviewer.org/github/thsavage/Public-Presentations/blob/main/Reonomy%20November%2010.ipynb).
 
 December 2021 [Schack Faculty Seminar Series](https://github.com/thsavage/Public-Presentations/blob/main/Implications%20of%20the%20Current%20Economic%20Cycle%20for%20CRE.ipynb). 
+
+April 2022 [American Real Estate Society presentation](https://github.com/thsavage/Public-Presentations/blob/main/AI%20and%20Machine%20Learing%20for%20Real%20Estate%20Forecasting.pdf)
