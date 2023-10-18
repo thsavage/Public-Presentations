@@ -15,3 +15,5 @@ December 2021 [Schack Faculty Seminar Series](https://github.com/thsavage/Public
 April 2022 [American Real Estate Society presentation on AI](https://github.com/thsavage/Public-Presentations/blob/main/AI%20and%20Machine%20Learing%20for%20Real%20Estate%20Forecasting.pdf).
 
 Summer 2023 [Introductory Economics and Finance](https://github.com/thsavage/Public-Presentations/blob/main/Economics%2C%20Finance%20and%20Investing.ipynb).
+
+Octover 2023: [PREA Talk](https://nbviewer.org/github/thsavage/Public-Presentations/blob/main/PREA%20Talk.ipynb)
